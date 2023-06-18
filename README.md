@@ -9,6 +9,8 @@ Watch *[DEMO VIDEOS!](https://www.youtube.com/playlist?app=desktop&list=PL6FWNwN
   * python semantics & syntax
 * [Weather Master](https://github.com/johnson70630/stanCode-python-projects/blob/main/stanCode_projects/number_checker/weather_master.py) 
   * python semantics & syntax
+* [DNA Similarity](https://github.com/johnson70630/stanCode-python-projects/blob/main/stanCode_projects/hangman_game/dna_similarity.py)
+  * python semantics & syntax
 * [Pedestrian Removing Application](https://github.com/johnson70630/stanCode-python-projects/blob/main/stanCode_projects/my_photoshop/stanCodoshop.py)
   * image processing
 * [Breakout Game](https://github.com/johnson70630/stanCode-python-projects/blob/main/stanCode_projects_2/break_out_game/breakout.py)
